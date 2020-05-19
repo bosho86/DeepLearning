@@ -6,3 +6,5 @@ Project Course Winter 2019
 2. train_DNN.py-> Training the DNN 
 3. train.CNN.py-> Training of the CNN
 
+For more details, please go to the Wiki
+
