@@ -1,5 +1,6 @@
 # DeepLearning
-Project Course Winter 2019
+Project Course Autum 2018
+Paulina Aguirre and Saurabh Sant 
 
 # Determination of heart diseases from ECG signals using dense neural networks
 1. model.py -> Model of a simple Dense Neuronal netowk and a Convolutional Neuronal Network.
